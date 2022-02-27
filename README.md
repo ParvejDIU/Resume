@@ -1,22 +1,22 @@
 **Software-Project-5-Assignment-1**
 
-I'm Parvej Khan Oudud; 3rd semester (Batch-59**A**) at Daffodil Internation University. Student I'D: 212-15-14742
+I'm **Parvej Khan Oudud**; **3rd** semester (Batch-59**A**) at Daffodil Internation University. Student I'D: **212-15-14742**.
 #This is my assignment.
 
 **I learend**
 
-Repository initialization
+1.Repository initialization.
 
-Adding files to git
+2.Adding files to git.
 
-Checking git status
+3.Checking git status.
 
-Commit
+4.Commit.
 
-Commit message
+5.Commit message.
 
-Creating remote repository
+6.Creating remote repository.
 
-Adding remote repository
+7.Adding remote repository.
 
-Pushing my local to remote repository
+8.Pushing my local to remote repository.
