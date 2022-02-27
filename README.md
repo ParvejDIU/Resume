@@ -1,6 +1,6 @@
 **Software-Project-5-Assignment-1**
 
-I'm **Parvej Khan Oudud**; **3rd** semester (Batch-59**A**) at Daffodil Internation University. Student I'D: **212-15-14742**.
+This is **Parvej Khan Oudud**; **3rd** semester (Batch-59**A**) at Daffodil Internation University. Student I'D: **212-15-14742**.
 
 #This is my assignment.
 
